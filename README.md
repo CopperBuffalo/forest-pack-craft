@@ -37,4 +37,4 @@ Yes, it's built and tested for Windows.
 Details & docs: https://forest-pack-craft.softnation.xyz
 
 ## Legal
-> Use responsibly. This page is an independent listing and is not affiliated with the original vendor.                     
+> Use responsibly. This page is an independent listing and is not affiliated with the original vendor.                      
